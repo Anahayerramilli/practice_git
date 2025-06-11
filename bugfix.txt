@@ -1,0 +1,1 @@
+Login bug fixed by checking null session ID
